@@ -1,0 +1,125 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+.header{
+  background-image: url(https://4.bp.blogspot.com/-p2mPuW44Fcc/WPUShR1dc8I/AAAAAAAAJHc/bxYyT0GBxAoJlLvxfxOMUKWKElX1_6d8ACLcB/s1600/Inteligencia-artifical.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 2rem;
+  margin-bottom: 3rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
+
+  }
+  
+.header h1{
+font-family: "lobster";
+font-size: 3rem;
+color: rgb(54, 7, 52);
+text-align: center;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 15px;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.section {
+  padding: 40px;
+  text-align: center;
+  
+}
+.educacion table{
+  margin: auto;
+}
+.educacion thead{
+  font-family: "antonio";
+  color: rgb(12, 12, 12);
+  text-align: center;
+  font-size: 1.2rem;
+}
+.educacion th{
+  border: 2px solid rgb(4, 53, 53);
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+.educacion td{
+  border: 2px solid rgb(253, 252, 252);
+  padding: 1rem;
+}
+
+.project {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.project img {
+  max-width: 50%;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 200%;
+  max-width: 1200px;
+  
+}
+
+.image {
+  flex: 3;
+  margin: 10px;
+  }
+
+.image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+}
+.footer{
+  background-color: rgb(3, 8, 34);
+  padding: 1rem;
+  text-align: center;
+
+}
+.footer a{
+  text-decoration: none;
+  background-color: rgb(3, 8, 34);
+font-size: 1.5rem;
+          font-family: "antonio";}
+.footer img{
+  width: 3rem;
+  margin: 1rem;
+  border-radius: 1rem;
+}
+.footer a:hover{
+color: black;
+}
+
+
+
